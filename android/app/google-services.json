@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263359359579",
+    "project_id": "login-resiger-flutterapp",
+    "storage_bucket": "login-resiger-flutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263359359579:android:71c1ebb7e9c0417a216d7e",
+        "android_client_info": {
+          "package_name": "com.example.enhansed_login_register_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlMtaoVdWifaEI3ZwNxGlIVteXGb4J-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
